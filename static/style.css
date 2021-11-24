@@ -1,0 +1,319 @@
+body {
+    background: #000000;
+    color: #FFFFFF;
+    margin: 25px;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-size: small;
+	line-height: 180%;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em;
+}
+
+p { 
+	margin-left: 20px;
+	line-height: inherit;
+	text-indent: 3em;
+	font-size: large;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em;
+	clear: both;
+}
+
+a:link {
+	line-height: inherit;
+	color: #0FAF3F;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em;
+}
+
+a:visited {
+	color: #0FFF5F;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em;
+}
+
+a:hover { 
+	color: #AFAF3F;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em;
+}
+
+a:active { 
+	color: #CFAF1F;
+	letter-spacing: 0.1em; 
+	word-spacing: 0.5em; 
+}
+
+.div_title {
+	font-zise: x-large;
+	background-color: 
+}
+
+.action_button {
+	line-height: 102%;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    color: #AAAAAA;
+	text-align: center;
+	font-size: small;
+	height: 55px;
+	width: 150px;
+	border-radius: 7px;
+	border: 2px solid #4CAF50;	
+	padding: 1px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    word-spacing: 0.2em;
+    letter-spacing: 0.1em; 
+    float: left;
+}
+
+.action_button:hover { 
+	background-color: #108020; 
+}
+
+div {
+	line-height: inherit;
+	border-top: 1px solid #2F2F2F;
+	border-bottom: 1px solid #2F2F2F;
+	border-left: 1px solid #2F2F2F;
+	border-right: 1px solid #2F2F2F;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+table {
+	margin: 20px;
+	border: 0px solid #3F3F3F;
+	font-size: 1em;
+}
+
+table td {
+	margin: 10px;
+	border: 1px solid #3F3F3F;
+	font-size: 1em;
+}
+
+table td {
+	margin: 10px;
+	border: 1px solid #3F3F3F;
+	font-size: 1em;
+}
+
+input {
+	margin-left: 10px;
+}
+
+.table_title_short {
+	margin-left: 40px;
+	border: 0px solid #3F3F3F;
+}
+
+.table_title_short_tr {
+	border: 0px solid #3F3F3F;
+}
+
+.table_title_short_tr_td {
+	border: 0px solid #3F3F3F;
+}
+
+.div_inner {
+	margin: 0px;
+	background: #000000;
+}
+
+#node_index {
+	border-top: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c0;
+	border-left: 1px solid #c0c0c0;
+	border-right: 1px solid #c0c0c0;
+	background: #c0c0c0; 
+	display:blok;
+}
+
+#node_index_small {
+	border-top: 1px solid #c0c0c0;
+	border-bottom: 1px solid #c0c0c0;
+	border-left: 1px solid #c0c0c0;
+	border-right: 1px solid #c0c0c0;
+	background: #c0c0c0;
+	display:blok;
+}
+
+#node_rTC-Akwarium {
+	line-height: inherit;
+	border-top: 1px solid #00007F;
+	border-bottom: 1px solid #00007F;
+	border-left: 1px solid #00007F;
+	border-right: 1px solid #00007F;
+	background: #00007F;
+	display:blok;
+}
+
+#node_rTC-Akwarium_small {
+	line-height: inherit;
+	border-top: 1px solid #00007F;
+	border-bottom: 1px solid #00007F;
+	border-left: 1px solid #00007F;
+	border-right: 1px solid #00007F;
+	background: #00007F;
+}
+
+#node_rTC-Storczyki {
+	border-top: 1px solid #007F00;
+	border-bottom: 1px solid #007F00;
+	border-left: 1px solid #007F00;
+	border-right: 1px solid #007F00;
+	background: #007F00;
+	display:none;
+}
+
+#node_rTC-Storczyki_small {
+	border-top: 1px solid #007F00;
+	border-bottom: 1px solid #007F00;
+	border-left: 1px solid #007F00;
+	border-right: 1px solid #007F00;
+	background: #007F00;
+}
+
+#node_Akwarium {
+	border-top: 1px solid #003F7F;
+	border-bottom: 1px solid #003F7F;
+	border-left: 1px solid #003F7F;
+	border-right: 1px solid #003F7F;
+	background: #003F7F;
+	display:none;
+}
+
+#node_Akwarium_small {
+	border-top: 1px solid #003F7F;
+	border-bottom: 1px solid #003F7F;
+	border-left: 1px solid #003F7F;
+	border-right: 1px solid #003F7F;
+	background: #003F7F;
+}
+
+#node_Storczyki {
+	border-top: 1px solid #007F3F;
+	border-bottom: 1px solid #007F3F;
+	border-left: 1px solid #007F3F;
+	border-right: 1px solid #007F3F;
+	background: #007F3F;
+	display:none;
+}
+
+#node_Storczyki_small {
+	border-top: 1px solid #007F3F;
+	border-bottom: 1px solid #007F3F;
+	border-left: 1px solid #007F3F;
+	border-right: 1px solid #007F3F;
+	background: #007F3F;
+}
+
+#node_Chomik {
+	border-top: 1px solid #a3825c;
+	border-bottom: 1px solid #a3825c;
+	border-left: 1px solid #a3825c;
+	border-right: 1px solid #a3825c;
+	background: #a3825c;
+	display:none;
+}
+
+#node_Chomik_small {
+	border-top: 1px solid #a3825c;
+	border-bottom: 1px solid #a3825c;
+	border-left: 1px solid #a3825c;
+	border-right: 1px solid #a3825c;
+	background: #a3825c;
+}
+
+#node_Balkon {
+	border-top: 1px solid #7F7F00;
+	border-bottom: 1px solid #7F7F00;
+	border-left: 1px solid #7F7F00;
+	border-right: 1px solid #7F7F00;
+	background: #7F7F00;
+	display:none;
+}
+
+#node_Balkon_small {
+	border-top: 1px solid #7F7F00;
+	border-bottom: 1px solid #7F7F00;
+	border-left: 1px solid #7F7F00;
+	border-right: 1px solid #7F7F00;
+	background: #7F7F00;
+}
+
+#node_Salon-Nixie {
+	border-top: 1px solid #7F0000;
+	border-bottom: 1px solid #7F0000;
+	border-left: 1px solid #7F0000;
+	border-right: 1px solid #7F0000;
+	background: #7F0000;
+	display:none;
+}
+
+#node_Salon-Nixie_small {
+	border-top: 1px solid #7F0000;
+	border-bottom: 1px solid #7F0000;
+	border-left: 1px solid #7F0000;
+	border-right: 1px solid #7F0000;
+	background: #7F0000;
+}
+
+#node_Nixie-Display {
+	border-top: 1px solid #FF8040;
+	border-bottom: 1px solid #FF8040;
+	border-left: 1px solid #FF8040;
+	border-right: 1px solid #FF8040;
+	background: #FF8040;
+	display:none;
+}
+
+#node_Nixie-Display_small {
+	border-top: 1px solid #FF8040;
+	border-bottom: 1px solid #FF8040;
+	border-left: 1px solid #FF8040;
+	border-right: 1px solid #FF8040;
+	background: #FF8040;
+}
+
+#node_PM-Meter {
+	border-top: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #808080;
+	border-right: 1px solid #808080;
+	background: #808080;
+	display:none;
+}
+
+#node_PM-Meter_small {
+	border-top: 1px solid #808080;
+	border-bottom: 1px solid #808080;
+	border-left: 1px solid #808080;
+	border-right: 1px solid #808080;
+	background: #808080;
+}
+
+#node_RTC-Nixie {
+	border-top: 1px solid #a513a8;
+	border-bottom: 1px solid #a513a8;
+	border-left: 1px solid #a513a8;
+	border-right: 1px solid #a513a8;
+	background: #a513a8;
+	display:none;
+}
+
+#node_RTC-Nixie_small {
+	border-top: 1px solid #a513a8;
+	border-bottom: 1px solid #a513a8;
+	border-left: 1px solid #a513a8;
+	border-right: 1px solid #a513a8;
+	background: #a513a8;
+}
